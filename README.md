@@ -1,2 +1,2 @@
-# proyek-labKGV
-proyek akhir lab KGV - Membuat game balap roket
+# Rocket Race Game
+Game mini balap roket
